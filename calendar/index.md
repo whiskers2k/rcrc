@@ -1,7 +1,12 @@
 ---
 layout: archive
 permalink: /
-title: "Rapid City Rifle Club"
+title: Rapid City Rifle Club
+published: true
+---
+
+---
+page.title: 
 ---
 
 <div class="tiles">
