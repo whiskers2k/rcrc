@@ -1,4 +1,17 @@
 # Footer navigation links
 
-- title:
-  url:
+- title: Home
+  url: /
+  
+- title: Contacts
+  url: /contacts
+  
+- title: Calendar
+  url: /calendar/
+  
+- title: Downloads
+  url: /donwloads/
+  
+- title: Gallery
+  url: /gallery/
+  
