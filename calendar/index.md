@@ -6,7 +6,7 @@ published: true
 ---
 
 ---
-page.title: 
+page.title: Calendar
 ---
 
 <div class="tiles">
