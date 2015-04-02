@@ -1,6 +1,21 @@
 # Site navigation links
 
+- title: Home
+  url: /
+
 - title: Contact
   url: /contact/
   excerpt: "Rapid City Rifle Club Contacts"
   image:
+  
+- title: Calendar
+  url: /calendar/
+  excerpt: "Calendar of Events"
+
+- title: Downloads
+  url: /downloads/
+  excerpt: "Forms, Sign up sheets and other infomation"
+
+- title: Gallery
+  url: /gallery/
+  excerpt: "Photo Gallery"
