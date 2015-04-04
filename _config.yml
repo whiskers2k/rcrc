@@ -2,8 +2,8 @@
 
 title:  "Rapid City Rifle Club"
 description:  "Web home of the Rapid City Rifle Club"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: /images/crosshair-120x120.png
+teaser: /images/crosshair-450x250.png
 locale:
 url: 
 
