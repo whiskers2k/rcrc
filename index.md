@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /
-title: "Rapid City Rifle Club"
 ---
 
 <div class="tiles">

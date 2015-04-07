@@ -1,7 +1,5 @@
 ---
-layout: archive
-permalink: /
-title: Rapid City Rifle Club
+layout: default
 published: true
 ---
 
